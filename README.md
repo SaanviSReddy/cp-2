@@ -1,1 +1,2 @@
-# cp-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
